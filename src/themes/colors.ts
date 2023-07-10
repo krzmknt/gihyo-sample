@@ -1,4 +1,4 @@
-const colors = {
+export const colors = {
   primary: "#3f51b5",
   primaryDark: "#2c387e",
   primaryLight: "#6573c3",
@@ -13,5 +13,3 @@ const colors = {
   white: "#ffffff",
   text: "#000000",
 } as const;
-
-export default colors;
